@@ -2,6 +2,6 @@ Project for converting a LSTM network trained on text to a faster finite-states 
 
 Notebooks :
 
-- from_LSTM_to_automata : convert a LSTM trained on a regular word database to an automaton.
+- `from_LSTM_to_automata` : convert a LSTM trained on a regular word database to an automaton.
 
-- ToyLanguageExperiment and ToyLanguage : LSTM trained on the toy language formed by the well-parenthesed words from the alphabet { "(", ")", "a"}. Used to understand how the memory states of the LSTM behave, and how they should be merged. 
+- `ToyLanguageExperiment` and `ToyLanguage` : LSTM trained on the toy language formed by the well-parenthesed words from the alphabet { "(", ")", "a"}. Used to understand how the memory states of the LSTM behave, and how they should be merged. 
