@@ -6,6 +6,6 @@ You can find :
 
 - `from_LSTM_to_automata` : project to speed-up a LSTM trained on text by transforming it into a finite-state automaton.
 
-- `training_projects` : smaller projects I did from training (predicting presidents from wikipedia hyperlinks, predicting the shots of Kobe Bryant, generating names from a certain country etc)
+- `training_projects` : smaller projects I did for training (predicting presidents from wikipedia hyperlinks, predicting the shots of Kobe Bryant, generating names from a certain country etc)
 
 
